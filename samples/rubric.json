@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "criteria": [
+    {
+      "id": "completeness",
+      "weight": 0.4,
+      "keywords": ["check", "required", "schema", "evidence", "compare"]
+    },
+    {
+      "id": "reliability",
+      "weight": 0.35,
+      "keywords": ["validate", "duplicate", "sources", "instruction"]
+    },
+    {
+      "id": "clarity",
+      "weight": 0.25,
+      "keywords": ["before", "explain", "preferred"]
+    }
+  ]
+}

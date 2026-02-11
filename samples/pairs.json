@@ -1,0 +1,14 @@
+[
+  {
+    "id": "eval_001",
+    "scores_a": {"task_completion": 5, "factual_accuracy": 4, "instruction_adherence": 5, "clarity": 4},
+    "scores_b": {"task_completion": 3, "factual_accuracy": 2, "instruction_adherence": 3, "clarity": 3},
+    "notes": "A cites sources; B omits required constraints."
+  },
+  {
+    "id": "eval_002",
+    "scores_a": {"task_completion": 4, "factual_accuracy": 4, "instruction_adherence": 4, "clarity": 5},
+    "scores_b": {"task_completion": 4, "factual_accuracy": 4, "instruction_adherence": 4, "clarity": 5},
+    "notes": "Both answers meet the rubric equally."
+  }
+]
